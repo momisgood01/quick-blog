@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken";
 import mongoose from "mongoose";
-import Blog from "../models/Blog.js";
+import Blog from "../Models/blog.js";
 import Comment from "../Models/Comment.js";
 
 
